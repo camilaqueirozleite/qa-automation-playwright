@@ -1,0 +1,13 @@
+{
+  "name": "qa-automation-playwright",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfólio de automação de testes com Playwright.",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.1"
+  }
+}
