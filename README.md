@@ -44,6 +44,5 @@ npm test
 - organização de cenários por tema
 - execução de testes em navegador real
 
-## Frase para entrevista
 
-Este projeto demonstra minha base em automação de testes com Playwright, incluindo validação de fluxos de usuário, organização de cenários e uso de boas práticas de manutenção e reutilização de código.
+Este projeto demonstra base em automação de testes com Playwright, incluindo validação de fluxos de usuário, organização de cenários e uso de boas práticas de manutenção e reutilização de código.
